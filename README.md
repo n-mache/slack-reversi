@@ -1,0 +1,2 @@
+# slack-reversi
+Slackでオセロ出来たらいいよねって思ったから作ろうと思ったBot
